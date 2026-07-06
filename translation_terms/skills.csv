@@ -1,0 +1,103 @@
+WORD_ID,中文名,英文翻译,子类别,修订翻译
+296,气疗术,FirstAid,回复/辅助仙术,QiHeal
+297,观音咒,Remedy,回复/辅助仙术,
+298,凝神归元,L.Heal,回复/辅助仙术,LightHeal
+299,元灵归心术,H.Heal,回复/辅助仙术,HeavyHeal
+300,五气朝元,TeamRec.,回复/辅助仙术,VitalFlow
+301,还魂咒,Revive,回复/辅助仙术,
+302,赎魂,M.Revive,回复/辅助仙术,MaxRevive
+303,回梦,Sleep,回复/辅助仙术,Sleep
+304,夺魂,SoulDrain,回复/辅助仙术,
+305,鬼降,Confuse,回复/辅助仙术,
+306,净衣咒,Cure,回复/辅助仙术,Purify
+307,冰心诀,Dispel,回复/辅助仙术,
+308,灵血咒,SoulSerum,回复/辅助仙术,
+309,金刚咒,IronSkin,回复/辅助仙术,
+310,真元护体,SteelBody,回复/辅助仙术,
+311,天罡战气,Focus,回复/辅助仙术,WarSpirit
+312,风咒,Wind I,攻击仙术/技能,Gale
+313,旋风咒,Wind II,攻击仙术/技能,Cyclone
+314,风卷残云,Wind III,攻击仙术/技能,Tornado
+315,风神,WindGod,攻击仙术/技能,WindGod
+316,雷咒,ThunderI,攻击仙术/技能,Bolt
+317,五雷咒,ThunderII,攻击仙术/技能,PentaBolts
+318,天雷破,Lightning,攻击仙术/技能,Lightning
+319,狂雷,ThunderIII,攻击仙术/技能,RageBolt
+320,雷神,ThunderGod,攻击仙术/技能,
+321,冰咒,Ice I,攻击仙术/技能,Frost
+322,玄冰咒,Ice II,攻击仙术/技能,DeepIce
+323,风雪冰天,Blizzard,攻击仙术/技能,Blizzard
+324,风雪冰天1,Blizzard1,攻击仙术/技能,Blizzard1
+325,雪妖,IceGod,攻击仙术/技能,IceGod
+326,火术,Fire,攻击仙术/技能,Fire
+327,炎咒,Fire I,攻击仙术/技能,Flame
+328,三昧真火,Ghostfire,攻击仙术/技能,SamaFire
+329,炎杀咒,Firebolt,攻击仙术/技能,
+330,炼狱真火,Hellfire,攻击仙术/技能,
+331,火龙,FireDragon,攻击仙术/技能,
+332,土咒,Earth I,攻击仙术/技能,Rock
+333,飞岩术,Earth II,攻击仙术/技能,RocksFall
+334,地裂天崩,Quake,攻击仙术/技能,Quake
+335,泰山压顶,Earth III,攻击仙术/技能,MountCrush
+336,山神,EarthGod,攻击仙术/技能,
+337,气剑指,LinString,攻击仙术/技能,QiBlade
+338,弦月斩,玾堎梮,攻击仙术/技能,MoonSlash
+339,弦月斩1,玾堎梮1,攻击仙术/技能,MoonSlash1
+340,一阳指,LinBladeI,攻击仙术/技能,MonoBlade
+341,七诀剑气,LinBladeII,攻击仙术/技能,SeptBlades
+342,斩龙诀,LinSlayer,攻击仙术/技能,DrgSlayer
+343,暗器,做,攻击仙术/技能,Darts
+344,铜钱镖,CoinDart,攻击仙术/技能,
+345,御剑术,SwordRain,攻击仙术/技能,
+346,万剑诀,BladeDance,攻击仙术/技能,
+347,心剑合一,UnitBlade,攻击仙术/技能,
+348,天剑,FuseSword,攻击仙术/技能,
+349,天师符法,DemonBane,攻击仙术/技能,
+350,斩魔刀,梮藹絮,攻击仙术/技能,DemonSlay
+351,武神,Warlord,攻击仙术/技能,
+352,三尸咒,Infection,攻击仙术/技能,Plague
+353,御蜂术,SummonBee,攻击仙术/技能,
+354,万蚁蚀象,DemonAnts,攻击仙术/技能,
+355,天女散花,毞躓汃豪,攻击仙术/技能,PetalStorm
+356,剑气,膛,攻击仙术/技能,SwordQi
+357,炼狱爪,褻郜蛈,攻击仙术/技能,HellClaw
+358,血魔神功,悛藹朸髡,攻击仙术/技能,BloodMgc
+359,狂风术,遼瑞扲,攻击仙术/技能,Gale
+360,鞭击,晝僻,攻击仙术/技能,Whip
+361,御剑伏魔,Tempest,攻击仙术/技能,Tempest
+362,御剑伏魔1,Tempest1,攻击仙术/技能,Tempest1
+363,剑神,BladeGod,攻击仙术/技能,BladeGod
+364,风灵符法,瑞鍾睫楊,攻击仙术/技能,WindSeal
+365,雷灵符法,濘鍾睫楊,攻击仙术/技能,Thun.Seal
+366,水灵符法,阨鍾睫楊,攻击仙术/技能,WaterSeal
+367,火灵符法,鳶鍾睫楊,攻击仙术/技能,FireSeal
+368,土灵符法,芩鍾睫楊,攻击仙术/技能,EarthSeal
+369,气吞天下,迒毞狟,攻击仙术/技能,QiWorld
+370,酒神,WineGod,攻击仙术/技能,
+371,瘴气,梉,攻击仙术/技能,Miasma
+372,万蛊蚀天,WitchCraft,攻击仙术/技能,
+373,毒吞天下,馮迒毞狟,攻击仙术/技能,PoisWorld
+374,爆炸蛊,BlastBug,攻击仙术/技能,
+375,镇天鼎,HeavenBell,攻击仙术/技能,
+376,咒蛇,紸彴,攻击仙术/技能,SnakeHex
+377,飞龙探云手,DragonPick,攻击仙术/技能,
+378,火龙掌,鳶韓梪,攻击仙术/技能,DragonPalm
+379,灭绝一击,Devastate,攻击仙术/技能,
+380,横扫千军,筵禸濂,攻击仙术/技能,Sweep
+381,爆炸,惇旍,攻击仙术/技能,Explosion
+382,魔掌天下,藹梪毞狟,攻击仙术/技能,DemonPalm
+383,佛法无边,Judgement,攻击仙术/技能,
+384,灵葫咒,DrawSpirit,攻击仙术/技能,GourdDraw
+385,气魔焰,藹栭,攻击仙术/技能,QiFlame
+386,合体气功,磁极髡,攻击仙术/技能,TeamQi
+387,气功,髡,攻击仙术/技能,Qi Art
+388,剑气斩,膛梮,攻击仙术/技能,SwdQiSlh
+389,火神,FireGod,攻击仙术/技能,FireGod
+390,醉仙望月步,HighSpirit,攻击仙术/技能,
+391,投掷,芘祣,攻击仙术/技能,Throw
+392,金蝉脱壳,Retreat,攻击仙术/技能,
+393,仙风云体术,ShadowBody,攻击仙术/技能,
+394,乾坤一掷,CoinDartII,攻击仙术/技能,All In
+395,大咒蛇,湮紸彴,攻击仙术/技能,BigSnake
+396,腥风血雨,BloodyWind,攻击仙术/技能,
+397,群魔乱舞,藹觴敃,攻击仙术/技能,DemonDance

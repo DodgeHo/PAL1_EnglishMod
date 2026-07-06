@@ -1,0 +1,236 @@
+WORD_ID,中文名,英文翻译,子类别,修订翻译
+61,观音符,Seal G,符咒,RemedSeal
+62,圣灵符,Seal S,符咒,RecSeal
+63,金刚符,Seal J,符咒,IronSeal
+64,净衣符,Seal Y,符咒,PureSeal
+65,灵心符,Seal X,符咒,SoulSeal
+66,天师符,SealTaoist,符咒,TaoSeal
+67,风灵符,Seal Wind,符咒,WindSeal
+68,雷灵符,Seal Thund,符咒,Thun.Seal
+69,水灵符,Seal Water,符咒,WaterSeal
+70,火灵符,Seal Fire,符咒,FireSeal
+71,土灵符,Seal Earth,符咒,EarthSeal
+153,梅花镖,Plum Dart,投掷武器,
+154,袖里剑,SleeveSwd,投掷武器,
+155,透骨钉,T Nail,投掷武器,BoneNail
+156,雷火珠,TBoltBeads,投掷武器,
+157,毒龙砂,D Sand,投掷武器,
+158,吸星锁,Star Trap,投掷武器,
+159,缠魂丝,Soul Web,投掷武器,
+160,捆仙绳,DevilTwine,投掷武器,
+161,无影神针,WY Needle,投掷武器,
+162,血玲珑,BloodBall,投掷武器,
+163,长鞭,LongWhip,鞭,
+164,九截鞭,9PartWhip,鞭,
+165,金蛇鞭,Snake Whip,鞭,
+166,木剑,WoodSword,剑/刀,
+167,短刀,ShortKnife,剑/刀,
+168,铁剑,IronSword,剑/刀,
+169,大刀,Cleaver,剑/刀,
+170,仙女剑,FairySword,剑/刀,
+171,长剑,LongSword,剑/刀,
+172,红缨刀,HY Knife,剑/刀,RedTassel
+173,越女剑,MaidenSwd,剑/刀,
+174,戒刀,J Knife,剑/刀,MonkKnife
+175,玄铁剑,XuanTieSwd,剑/刀,MysticSwd
+176,芙蓉刀,FR Knife,剑/刀,
+177,柳月刀,LY Knife,剑/刀,
+178,青锋剑,QF Sword,剑/刀,CyanSword
+179,苗刀,MiaoKnife,剑/刀,
+180,凤鸣刀,FM Knife,剑/刀,
+181,双龙剑,DDragonSwd,剑/刀,
+182,玉女剑,LadySword,剑/刀,
+183,金童剑,GBoySword,剑/刀,
+184,龙泉剑,LQ Sword,剑/刀,
+185,鬼牙刀,GuiYaKnife,剑/刀,
+186,七星剑,SStarSword,剑/刀,7StarSword
+187,玄冥宝刀,XM Knife,剑/刀,
+188,巫月神刀,WY Knife,剑/刀,
+189,磐龙剑,PL Sword,剑/刀,
+190,太极剑,TJ Sword,剑/刀,TaijiSword
+191,无尘剑,WC Sword,剑/刀,DustlSword
+192,青蛇杖,QS Staff,杖,
+193,鬼头杖,SkullStaff,杖,
+194,冥蛇杖,SnakeStaff,杖,
+195,天蛇杖,Serp.Staff,杖,SkyStaff
+196,头巾,Scarf,头饰,
+197,青丝巾,Silk Scarf,头饰,
+198,发饰,Hair Pin,头饰,
+199,银钗,Silver Pin,头饰,
+200,翠玉金钗,Jade Pin,头饰,
+201,皮帽,Hat,头饰,
+202,珍珠冠,PearlCrown,头饰,
+203,天师帽,TS Hat,头饰,
+204,紫金冠,ZJ Crown,头饰,
+205,天蚕丝带,Silk Belt,头饰,
+206,凤凰羽毛,PhoenixFea,头饰,
+207,冲天冠,TowerCrown,头饰,
+208,布袍,Robe,衣甲,
+209,藤甲,VineArmor,衣甲,
+210,丝衣,Silk Robe,衣甲,
+211,铁锁衣,IronCloth,衣甲,
+212,夜行衣,NightTight,衣甲,
+213,青铜甲,BronzArmor,衣甲,
+214,罗汉袍,Rohan Robe,衣甲,
+215,铁鳞甲,IronScales,衣甲,
+216,天师道袍,MasterRobe,衣甲,
+217,精铁战甲,ArmorSuit,衣甲,
+218,金缕衣,Gold Cloth,衣甲,
+219,鬼针胄,SpikeArmor,衣甲,
+220,天蚕宝衣,Silk Cloth,衣甲,
+221,青龙宝甲,Drag Plate,衣甲,
+222,白虎之铠,TigerArmor,衣甲,
+223,玄武战袍,BattleRobe,衣甲,
+224,朱雀战衣,Phoe. Robe,衣甲,
+225,披风,Cape,披风/披肩,
+226,护肩,Epaulet,披风/披肩,Pauldron
+227,武士披风,War Cape,披风/披肩,
+228,护心镜,Mirror,披风/披肩,
+229,霓虹羽衣,Neon Cloth,披风/披肩,RainbRobe
+230,菩提袈裟,Cassock,披风/披肩,
+231,虎纹披风,Tiger Cape,披风/披肩,
+232,凤纹披风,Phoe. Cape,披风/披肩,
+233,龙纹披风,Drag Cape,披风/披肩,
+234,圣灵披风,Nuwa Cape,披风/披肩,
+235,草鞋,Sandal,鞋靴,
+236,木鞋,Sabot,鞋靴,
+237,布靴,Boot,鞋靴,
+238,绣花鞋,Knit Shoes,鞋靴,
+239,铁履,Iron Shoes,鞋靴,
+240,武僧靴,Monk Shoes,鞋靴,
+241,鹿皮靴,Deer Boots,鞋靴,
+242,疾风靴,Wind Shoes,鞋靴,
+243,莲花靴,LotusShoes,鞋靴,
+244,虎皮靴,TigerBoots,鞋靴,
+245,龙鳞靴,Drag Boots,鞋靴,
+246,步云靴,CloudShoes,鞋靴,
+247,魅影神靴,PhantBoots,鞋靴,
+248,香袋,Sachet,饰品,
+249,护腕,Bracelet,饰品,
+250,铁护腕,Iron Brace,饰品,
+251,竹笛,Flute,饰品,
+252,珍珠,Pearl,饰品,
+253,玉镯,Jade,饰品,JadeBracel
+254,念珠,Rosary,饰品,
+255,银针,Ag Silver,饰品,SlvNeedle
+256,铜镜,Cu Mirror,饰品,BrzMirror
+257,八卦镜,BG Mirror,饰品,
+258,乾坤镜,QK Mirror,饰品,
+259,豹牙手环,L Bracelet,饰品,LeoBrace
+260,圣灵珠,Nuwa Jewel,饰品,NuwaPearl
+261,金罡珠,GoldenBead,饰品,
+262,五毒珠,PoisonBead,饰品,
+263,风灵珠,WindJewel,饰品,WindPearl
+264,雷灵珠,Thun.Jewel,饰品,Thun.Pearl
+265,水灵珠,WaterJewel,饰品,WaterPearl
+266,火灵珠,FireJewel,饰品,FirePearl
+267,土灵珠,EarthJewel,饰品,EarthPearl
+268,炼蛊皿,RefineBugD,饰品,GuVessel
+72,舍利子,Relic,材料,Sarira
+73,玉菩提,Bodhi,材料,
+74,银杏子,Apricot,材料,
+75,糯米,Rice,材料,StickyRice
+76,糯米糕,Rice Cake,材料,StickyCake
+77,盐巴,Salt,材料,
+78,茶叶蛋,Tea Egg,材料,
+79,鸡蛋,Egg,材料,
+80,糖葫芦,Sugar Ball,材料,
+81,蜡烛,Candle,材料,
+82,符纸,Seal,材料,Talisman
+83,檀香,Sandalwood,材料,
+84,大蒜,Garlic,食物,
+85,黑狗血,DogBlood,食物,
+86,酒,Wine,食物,
+87,雄黄,Realgar,食物,
+88,雄黄酒,R Wine,食物,RubyWine
+89,九节菖蒲,Calamus,药品,
+90,驱魔香,HolyMist,药品,
+91,十里香,DarkMist,药品,
+92,水果,Fruit,药品,
+93,烧肉,RoastMeat,药品,
+94,腌肉,Ham,药品,
+95,还魂香,SoulRevive,药品,
+96,赎魂灯,SoulLight,药品,
+97,孟婆汤,MengSoup,药品,
+98,天香续命露,Life Dew,药品,
+99,止血草,Herb,消耗品,Styptic
+100,行军丹,Pill,消耗品,March Pill
+101,金创药,Potion,消耗品,Salve
+102,蟠果,Peach,消耗品,Flat Peach
+103,紫菁玉蓉膏,Jade Paste,消耗品,
+104,鼠儿果,R Fruit,消耗品,MouseFruit
+105,还神丹,H Pill,消耗品,RestorPill
+106,龙涎草,L Grass,消耗品,DragGrass
+107,灵山仙芝,Mount.Iris,消耗品,
+108,雪莲子,SnowLotus,消耗品,
+109,天仙玉露,Jade Dew,消耗品,
+110,神仙茶,God's Tea,消耗品,
+111,灵葫仙丹,GourdPill,消耗品,
+112,试炼果,S Fruit,消耗品,TrialFruit
+113,女娲石,Nuwa Stone,消耗品,
+114,八仙石,BX Stone,消耗品,8ImmStone
+115,蜂巢,BeeHive,消耗品,Beehive
+116,尸腐肉,RottenMeat,消耗品,
+117,毒蛇卵,SnakeEgg,消耗品,
+118,毒蝎卵,ScorpEgg,消耗品,
+119,毒蟾卵,ToadEgg,消耗品,
+120,蜘蛛卵,SpiderEgg,消耗品,
+121,蜈蚣卵,CentiEgg,消耗品,
+122,鹤顶红,CraneRed,消耗品,
+123,孔雀胆,PeaCGall,消耗品,
+124,血海棠,SeaBlood,消耗品,
+125,断肠草,D Grass,消耗品,
+126,醍醐香,TH Scent,消耗品,
+127,忘魂花,S Flower,消耗品,
+128,紫罂粟,Opium,消耗品,
+129,鬼枯藤,Cane,消耗品,
+130,腹蛇涎,SnakeVenom,消耗品,ViperVenom
+131,蜂王蜜,Honey,消耗品,
+132,雪蛤蟆,Snow Toad,消耗品,
+133,赤蝎粉,ScorpPwder,毒材,
+134,化尸水,CorpseAcid,毒材,
+135,迷魂香,Knock-Out,毒材,
+136,九阴散,J Powder,毒材,
+137,无影毒,I Poison,毒材,
+138,三尸蛊,DeadBug,蛊虫,3CorpseGu
+139,金蚕蛊,SilkBug,蛊虫,GoldSilkGu
+140,幻蛊,PhantomBug,蛊虫,IllusGu
+141,隐蛊,StealthBug,蛊虫,StealthGu
+142,冰蚕蛊,IceBug,蛊虫,IceGu
+143,火蚕蛊,FireBug,蛊虫,FireGu
+144,食妖虫,FoodWorm,蛊虫,YaoWorm
+145,灵蛊,SpiritBug,蛊虫,SpiritGu
+146,爆烈蛊,BurstBug,蛊虫,BurstGu
+147,碧血蚕,JadeSilk,蛊虫,
+148,蛊,Bug,蛊虫,Gu
+149,赤血蚕,BloodSilk,蛊虫,
+150,金蚕王,GSilkKing,蛊虫,
+151,引路蜂,MazeBee,蛊虫,
+152,傀儡虫,PuppetBug,蛊虫,
+269,寿葫芦,S.Gourd,关键道具,LifeGourd
+270,紫金葫芦,D.Gourd,关键道具,PurpGourd
+271,布包,Package,关键道具,
+272,桂花酒,GH Wine,关键道具,OsmanWine
+273,紫金丹,ZJ Pill,关键道具,PurplePill
+274,玉佛珠,Jade Bead,关键道具,
+275,金凤凰蛋壳,P.EggShell,关键道具,
+276,火眼麒麟角,Q.Horn,关键道具,QilinHorn
+277,青龙碧血玉,QLBlood,关键道具,DragBlood
+278,毒龙胆,DragonGall,关键道具,
+279,破天锤,SkyHammer,关键道具,
+280,包袱,Package,关键道具,
+281,银杏果,Cloth Wrap,关键道具,GinkgoNut
+282,鲤鱼,Carp,关键道具,
+283,鹿茸,DeerAntler,关键道具,
+284,钓竿,Fish Rod,关键道具,
+285,捕兽夹,Clamp,关键道具,
+286,六神丹,LS Pill,关键道具,
+287,情书,LoveLetter,关键道具,
+288,玉佩,Pendant,关键道具,
+289,石钥匙,StoneKey,关键道具,
+290,天书,Scroll,关键道具,SkyScroll
+291,香蕉,Banana,关键道具,
+292,凤纹手绢,Fabric,关键道具,
+293,手卷,Li Scroll,关键道具,
+294,芦苇漂,ReedFloat,关键道具,
+295,梦蛇,Nuwa Morph,关键道具,
