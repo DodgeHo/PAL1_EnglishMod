@@ -12,22 +12,13 @@ v4.0 is a **second-pass terminology revision** — a systematic cleanup of item 
 
 ---
 
-## Online Walkthrough
-
-The illustrated English walkthrough is available online via GitHub Pages:
-
-- 📖 **Walkthrough**: [https://dodgeho.github.io/PAL1_EnglishMod/](https://dodgeho.github.io/PAL1_EnglishMod/)
-- Local entry point: `PAL_WalkThrough/index.htm`
-
-The site is deployed automatically from the `PAL_WalkThrough/` directory by GitHub Actions whenever `main` is updated.
-
----
-
 ## What's New in v4.0
 
 ### Terminology Standardization (100% Coverage)
 
 Every translatable entity in the game has been reviewed against a curated terminology table covering **all** game text categories:
+
+![skills.csv 术语表示例](assets/3.png)
 
 | Category | Count | Highlights |
 |----------|-------|------------|
@@ -49,13 +40,39 @@ Every translatable entity in the game has been reviewed against a curated termin
 - **Elemental orbs & pearls unified** — `WindJewel` → `WindPearl`, `Thun.Jewel` → `Thun.Pearl`, `Nuwa Jewel` → `NuwaPearl`, etc.
 - **Consistent Pinyin formatting** — NPC names now use compact Pinyin: `Ji Sanniang`, `Song Hewen`, `Jiang Shaoyun`, `Han Mengci`, etc.
 
+#### 游戏界面效果展示
+
+![法术菜单](assets/1.png)
+
+![装备与物品界面](assets/2.png)
+
 ### Walkthrough Update
 
 The full walkthrough HTML (`pal.htm` / `monster.htm`) has been systematically proofed and updated to use the revised terminology throughout.
 
+![Walkthrough HTML 示例](assets/4.png)
+
 ---
 
 ## Installation
+
+### Important Note for Steam Workshop Users
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3758913061
+
+Subscribing to this mod on Steam Workshop may only download the mod files to Steam's Workshop folder; it may **not** automatically apply them to the game directory. If the translation does not appear in-game after subscribing, please install the files manually:
+
+1. In Steam, right-click **Steam** or open your Steam installation folder.
+2. Go to `steamapps\workshop\content\1546570\3758913061`.
+   - On a default Steam Library this is usually:
+     `SteamLibrary\steamapps\workshop\content\1546570\3758913061`
+3. Open the game installation folder for **The Legend of Sword and Fairy**:
+   - In Steam, right-click the game → **Manage** → **Browse local files**; or
+   - Open `SteamLibrary\steamapps\common\PAL` manually.
+4. Copy **all files and folders** from `3758913061` into the game's `PAL` folder.
+5. When prompted, choose to overwrite/replace existing files.
+
+After copying the files, launch the game again and the English translation should be applied.
 
 ### Prerequisites
 
