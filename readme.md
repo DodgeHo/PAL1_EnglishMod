@@ -12,6 +12,17 @@ v4.0 is a **second-pass terminology revision** — a systematic cleanup of item 
 
 ---
 
+## Online Walkthrough
+
+The illustrated English walkthrough is available online via GitHub Pages:
+
+- 📖 **Walkthrough**: [https://dodgeho.github.io/PAL1_EnglishMod/](https://dodgeho.github.io/PAL1_EnglishMod/)
+- Local entry point: `PAL_WalkThrough/index.htm`
+
+The site is deployed automatically from the `PAL_WalkThrough/` directory by GitHub Actions whenever `main` is updated.
+
+---
+
 ## What's New in v4.0
 
 ### Terminology Standardization (100% Coverage)
