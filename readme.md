@@ -91,6 +91,8 @@ After copying the files, launch the game again and the English translation shoul
 
 This release contains the corrected `.slf` localization files. If you already have the v3.3 base installed, simply overwrite with the updated `m_eng.slf` (and corresponding `dos_files/` / `win_files/` content).
 
+The v4.0 release also includes an experimental Android APK build, `PAL98_withEnglishPatch_v4.0.apk`. This Android build is not a new translation from scratch; it adapts the existing English text into the Android package format, updates the title to `PAL 98Ver`, and applies the same terminology cleanup where available. Because the APK is signed with a new certificate, uninstall the original Android package before installing this build.
+
 ---
 
 ## Hotkeys
@@ -125,6 +127,7 @@ This release contains the corrected `.slf` localization files. If you already ha
 
 ### v4.0 (2026)
 - **DodgeHo** — Terminology revision, systematic term-table curation, walkthrough update, and release
+- **DodgeHo** — Android APK adaptation and packaging for the experimental v4.0 Android build
 
 ### v3.0–v3.3 (2015–2019)
 - **Nostaljaded** — SDLPal ENG support, cross-referencing original Chinese lines, Equip/Status screen refactoring, translated poetry, text cleanup (40–55%), and ongoing maintenance
